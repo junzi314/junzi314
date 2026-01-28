@@ -4,7 +4,7 @@ I am a third-year student at the Tokyo University of Science majoring in chemist
 
 ### Professional Experience
 
-- **CTO & AI Engineer** at **CEO @ TOONIQ LLC**
+- **CTO & AI Engineer** at **TOONIQ LLC**
 
 ## Tech Tool
 
