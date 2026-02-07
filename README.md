@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&repeat=false&width=435&lines=Hi%2C+I'm+Yuto+Yamaguchi%E3%80%80-AI+Engineer)](https://git.io/typing-svg)
 ## Profile 
-I am a third-year student at the Tokyo University of Science majoring in chemistry with a high motivation for AI engineering. I usually work with Google Colab, but I have started using GitHub to manage a website related to my club activities.
+I am a third-year student at the Tokyo University of Science majoring in chemistry with a high motivation for AI engineering. I usually work with Google Colab, but I have started using GitHub to manage a website.
 
 ### Professional Experience
 
